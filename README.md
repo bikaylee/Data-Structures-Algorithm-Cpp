@@ -1,2 +1,2 @@
-# CS110C-Data-Structures-Algorit-C-
+# Data-Structures-Algorithm-Cpp
 Fall 2018
